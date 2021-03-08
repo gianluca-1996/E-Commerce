@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\AlmacenGranate\bin\Debug\AlmacenGranate.exe.config
+C:\Users\admin\source\repos\AlmacenGranate\bin\Debug\AlmacenGranate.exe
+C:\Users\admin\source\repos\AlmacenGranate\bin\Debug\AlmacenGranate.pdb
+C:\Users\admin\source\repos\AlmacenGranate\obj\Debug\AlmacenGranate.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\AlmacenGranate\obj\Debug\AlmacenGranate.Form1.resources
+C:\Users\admin\source\repos\AlmacenGranate\obj\Debug\AlmacenGranate.Properties.Resources.resources
+C:\Users\admin\source\repos\AlmacenGranate\obj\Debug\AlmacenGranate.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\AlmacenGranate\obj\Debug\AlmacenGranate.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AlmacenGranate\obj\Debug\AlmacenGranate.exe
+C:\Users\admin\source\repos\AlmacenGranate\obj\Debug\AlmacenGranate.pdb
